@@ -136,3 +136,5 @@ The median profit is ` r f$median`
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+We have answered all 3 questions using replacement...
+
